@@ -1,1 +1,1 @@
-# Fashion-Item-Classfication-for-deep-learning-
+# Fashion-Item-Classfication-for-deep-learning
