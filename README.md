@@ -14,26 +14,30 @@ This project highlights my expertise in deep learning, model optimization, and A
 
 Result：
 Performance of SqeezeNet
-![image](https://github.com/user-attachments/assets/2c6c0195-c1f9-4919-bc15-79424cb341f9)
+
+![ccb315b14ee677366497e8d7394227e](https://github.com/user-attachments/assets/6526ba17-b249-4461-9de0-06e96f828502)
 
 
 
 
 Performance of ResNet50
-![image](https://github.com/user-attachments/assets/7e3d8396-9d86-4540-b61e-b182cd858429)
+![86ae787ddf476aab00c3581a98674d2](https://github.com/user-attachments/assets/a1f018b3-0fb3-4b5b-8f95-c0bde87fa9e7)
 
 
 
 
 Performance of DenseNet
-![image](https://github.com/user-attachments/assets/604f5ede-0905-4cc8-906d-603620dadf9d)
+![81ac53b68bb8623676538fa0dbbc292](https://github.com/user-attachments/assets/0723dcd3-273f-47bf-8586-271fe6ef13d3)
+
 
 
 Performance of MobleNetV2
-![image](https://github.com/user-attachments/assets/94f32c0c-85a3-4441-91ea-8d54cec35088)
+![5106f634dcea479fe9e6bf0ab772460](https://github.com/user-attachments/assets/3d0453f3-2a9b-4785-a7e5-eb3795be3143)
+
 
 Performance of VIT
-![image](https://github.com/user-attachments/assets/c1a58fe1-9460-4949-b533-1283364b53d1)
+![d6fdd7a673fc889d573f3c920779cf8](https://github.com/user-attachments/assets/5ed855ba-e3dc-4248-ac41-5a5d58475e57)
+
 
 
 
